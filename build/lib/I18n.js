@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _momentWithLocalesMin = require('moment/min/moment-with-locales.min.js');
+var _momentWithLocalesMin = require('moment');
 
 var _momentWithLocalesMin2 = _interopRequireDefault(_momentWithLocalesMin);
 
