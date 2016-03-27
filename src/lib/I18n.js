@@ -1,4 +1,4 @@
-import moment from 'moment/min/moment-with-locales.min.js';
+import moment from 'moment';
 import IntlPolyfill from 'intl';
 
 export default {
